@@ -1,0 +1,10 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Ensemble app icon</title>
+  <rect x="112" y="112" width="800" height="800" rx="180" fill="black"/>
+  <svg x="322" y="295" width="380" height="434" viewBox="-3 -1 42 48" fill="none">
+    <title>Ensemble mark</title>
+    <path d="M1.5 23C17.8034 23 20.3185 3.99996 33.5 4" stroke="white" stroke-width="6" stroke-linecap="butt"/>
+    <path d="M1.5 23C17.8034 23 20.3185 43 33.5 43" stroke="white" stroke-width="6" stroke-linecap="butt"/>
+    <path d="M1.5 23C17.8034 23 20.3185 23 33.5 23" stroke="white" stroke-width="6" stroke-linecap="butt"/>
+  </svg>
+</svg>

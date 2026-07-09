@@ -1,0 +1,7 @@
+node_modules
+out
+dist
+release
+.superapp-test-workspace/
+*.log
+.DS_Store
